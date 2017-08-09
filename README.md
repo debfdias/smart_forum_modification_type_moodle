@@ -1,0 +1,1 @@
+# smart_forum_modification_type_moodle
